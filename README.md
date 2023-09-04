@@ -15,3 +15,9 @@
 ```
 Srikant Gudi, Bengaluru
 ```
+
+## Run the app
+
+- clone the app `git clone https://github.com/srikantgudi/randomuser-api-php`
+- cd `randomuser-api-php`
+- Run the command `php artisan serve`
